@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://mervinpraison.github.io/praison/"
-title: Bible Revelation # site's title
+title: Praison # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
