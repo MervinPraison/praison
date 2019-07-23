@@ -21,4 +21,4 @@ post_date: 2018-01-14 01:06:45
 
 &nbsp;
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NT872PPQQ2WXE&lc=GB&item_name=Praison%20SEO%20WordPress&item_number=wordpress%2eorg&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" rel="noopener" target="_blank">Donate</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NT872PPQQ2WXE&lc=GB&item_name=Praison%20SEO%20WordPress&item_number=wordpress%2eorg&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" rel="noopener noreferrer" target="_blank">Donate</a>
